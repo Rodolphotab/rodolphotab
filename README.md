@@ -1,16 +1,15 @@
-## Hi there 👋
+## Oi blz? Eu sou o Rodolpho Lima
+- 🔭 Hoje trabalho com suporte Field de TI
+- 🌱 Estudando Análise de Desenvolvimento de Sistemas
+- 📫 Contate-me no e-mail: rodolphotab@gmail.com
+- 😄 Pronouns: Ele/Dele
 
-<!--
-**Rodolphotab/rodolphotab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://github.com/rodolphotab">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodolphotab" />
+</a>
+<a href="https://github.com/rodolphotab/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolphotab&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div]>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
