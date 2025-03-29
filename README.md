@@ -6,10 +6,10 @@
 
 <div>
 <a href="https://github.com/rodolphotab">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rodolphotab" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolphotab&show_icons=true&theme=tokyonight&include_all_comits=ture&count_private=true"/>
 </a>
 <a href="https://github.com/rodolphotab/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolphotab&layout=compact&langs_count=8&card_width=320" />
+  <img height=180" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolphotab&layout=compact&langs_count=8&card_width=320"/>
 </a>
 </div]>
 
